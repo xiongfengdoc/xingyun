@@ -15,13 +15,13 @@
 
 ## 📚 内容结构
 
-\`\`\`
+
 xingyun/
 ├── README.md          # 项目说明
 ├── config.toml        # Skill 配置
 ├── knowledge.md       # 知识库（生平、思想、语录）
 └── system.md          # System Prompt（角色设定、说话方式）
-\`\`\`
+
 
 ## 🎯 使用场景
 
